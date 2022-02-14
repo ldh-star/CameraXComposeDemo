@@ -1,5 +1,6 @@
+#### [中文文档](https://github.com/ldh-star/CameraXComposeDemo/raw/master/README-zh.md)
 
-# CameraXComposeDemo
+<h1 align="center">CameraXComposeDemo</h1>
 
 ![](https://github.com/ldh-star/CameraXComposeDemo/raw/master/app/src/main/res/mipmap-xxxhdpi/icon.png)
 
@@ -7,9 +8,8 @@
 ###    - Camera demo with Jetpack Compose
 
 ![](https://api.bintray.com/packages/li-xiaojun/jrepo/xpopup/images/download.svg)  
-![](https://img.shields.io/badge/author-ldh-brightgreen.svg) ![](https://img.shields.io/badge/jetpack compose-orange.svg) ![](https://img.shields.io/badge/minSdkVersion-21-orange.svg) ![](https://img.shields.io/hexpm/l/plug.svg)
+![](https://img.shields.io/badge/author-ldh-brightgreen.svg) ![](https://img.shields.io/badge/jetpack-compose-green.svg) ![](https://img.shields.io/badge/minSdkVersion-21-orange.svg) ![](https://img.shields.io/hexpm/l/plug.svg)
 
-#### [中文文档](https://github.com/ldh-star/CameraXComposeDemo/raw/master/README-zh.md)
 
 #### [Download Apk](https://github.com/ldh-star/CameraXComposeDemo/raw/master/app/release/app-release.apk)
 
@@ -36,9 +36,9 @@
 
 ## Official Documentations
 - Official Google Documentation
-    - [Compose Pathway](https://developer.android.com/courses/pathways/compose)
-    - [Jetpack compose](https://developer.android.com/jetpack/compose)
-    - [Jetpack compose Samples](https://github.com/android/compose-samples)
+  - [Compose Pathway](https://developer.android.com/courses/pathways/compose)
+  - [Jetpack compose](https://developer.android.com/jetpack/compose)
+  - [Jetpack compose Samples](https://github.com/android/compose-samples)
 
 - [Compose Academy ](https://compose.academy/)
 
