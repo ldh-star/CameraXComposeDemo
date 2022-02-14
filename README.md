@@ -1,4 +1,4 @@
-#### [中文文档](https://github.com/ldh-star/CameraXComposeDemo/raw/master/README-zh.md)
+#### [中文文档](https://github.com/ldh-star/CameraXComposeDemo/blob/master/README-zh.md)
 
 <h1 align="center">CameraXComposeDemo</h1>
 
