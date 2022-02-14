@@ -4,16 +4,14 @@
 ![](https://github.com/ldh-star/CameraXComposeDemo/raw/master/app/src/main/res/mipmap-xxxhdpi/icon.png)
 
 
-###    - Camera demo with Jetpack Compose
+###    - 用Compose编写的相机应用演示
 
 ![](https://api.bintray.com/packages/li-xiaojun/jrepo/xpopup/images/download.svg)  
 ![](https://img.shields.io/badge/author-ldh-brightgreen.svg) ![](https://img.shields.io/badge/jetpack compose-orange.svg) ![](https://img.shields.io/badge/minSdkVersion-21-orange.svg) ![](https://img.shields.io/hexpm/l/plug.svg)
 
-#### [中文文档](https://github.com/ldh-star/CameraXComposeDemo/raw/master/README-zh.md)
+#### [下载 Apk](https://github.com/ldh-star/CameraXComposeDemo/raw/master/app/release/app-release.apk)
 
-#### [Download Apk](https://github.com/ldh-star/CameraXComposeDemo/raw/master/app/release/app-release.apk)
-
-### ScreenShot
+### 演示截屏
 
 
 
@@ -27,15 +25,15 @@
 
 ![](https://github.com/ldh-star/CameraXComposeDemo/raw/master/screenshots/ezgif-1-df87077512.gif)
 
-## Technologies / Frameworks Used
+## 技术 / 依赖
 - Jetpack Compose for UI
-- [ClarityPermission](https://github.com/ldh-star/ClarityPermission)  - A concise tool for requesting permission, which supports coroutines and lambda block
-- [TimingExecutor](https://github.com/ldh-star/TimingExecutor) - Easily handle delayed tasks
-- Glide - Picture display
-- UltimateBarX - Easy to manage your status bar and navigation bar
+- [ClarityPermission](https://github.com/ldh-star/ClarityPermission)  - 一款简洁的请求权限的工具，支持协程和lambda表达式方式使用
+- [TimingExecutor](https://github.com/ldh-star/TimingExecutor) - 轻松地进行延时任务
+- Glide - 图片展示
+- UltimateBarX - 轻松适配状态栏和导航栏
 
-## Official Documentations
-- Official Google Documentation
+## 官方文档
+- 谷歌官方文档
     - [Compose Pathway](https://developer.android.com/courses/pathways/compose)
     - [Jetpack compose](https://developer.android.com/jetpack/compose)
     - [Jetpack compose Samples](https://github.com/android/compose-samples)
