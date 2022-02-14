@@ -9,8 +9,11 @@
 ![](https://api.bintray.com/packages/li-xiaojun/jrepo/xpopup/images/download.svg)  
 ![](https://img.shields.io/badge/author-ldh-brightgreen.svg) ![](https://img.shields.io/badge/jetpack compose-orange.svg) ![](https://img.shields.io/badge/minSdkVersion-21-orange.svg) ![](https://img.shields.io/hexpm/l/plug.svg)
 
-### ScreenShot
 #### [Download Apk](https://github.com/ldh-star/CameraXComposeDemo/raw/master/app/release/app-release.apk)
+
+### ScreenShot
+
+
 
 ![](https://github.com/ldh-star/CameraXComposeDemo/raw/master/screenshots/ezgif-1-4cee7c853a.gif)
 
